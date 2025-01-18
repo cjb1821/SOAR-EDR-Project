@@ -31,3 +31,7 @@
 - <b>MS Server 2022</b>
 
 <h2>Project walk-through:</h2>
+
+<p align="left">
+Created a workflow diagram in Draw.io to demonstrate the objectives of the project: <br/>
+<img src="https://imgur.com/TLMH96Z.png" height="80%" width="80%" alt="Draw.io Workflow Diagram"/>
