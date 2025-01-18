@@ -58,7 +58,7 @@ Created the Tines Playbook to have automation take place.
   <br />
   - Add actions to the webhook for sending a message to Slack and sending the user an email.
   <br />
-  - Add "yes" and "no" triggers
+  - Add "yes" and "no" triggers to the user prompt of deciding to isolate the machine.
   <br />
   - Add a Slack message action to the "no" trigger. This will send a message to Slack urging the user to investigate the incident if the client is not isolated.
   <br />
