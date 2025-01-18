@@ -29,3 +29,5 @@
 - <b>Tines</b>
 - <b>Slack</b>
 - <b>MS Server 2022</b>
+
+<h2>Project walk-through:</h2>
