@@ -1,1 +1,1 @@
-# SOAR-EDR-Project
+**Independent Project: [SOAR-EDR Implementation]**
