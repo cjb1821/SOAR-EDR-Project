@@ -77,5 +77,18 @@ For the sake of security, the content of this executable was not displayed.
 
 Lima Charlie detects the executable being run on the virtual machine. 
 <img src="https://imgur.com/Feyx9cH.png" height="80%" width="80%" alt="Lima Charlie detects the executable"/>
-
-
+<br />
+<br />
+<br />
+Lima Charlie then sends that information over to Tines, and the webhook receives this information. 
+<img src="https://imgur.com/HCFuYUm.png" height="80%" width="80%" alt="Tines gets the information on the detection"/>
+<br />
+<br />
+<br />
+Tines then forwards a message about the detection to the Slack alert channel that was created earlier.
+<br />
+An email about this detection was also sent to my personal email but I chose not to include this for personal reasons. 
+<img src="https://imgur.com/qwZTSZv.png" height="80%" width="80%" alt="Tines gets the information on the detection"/>
+<br />
+<br />
+<br />
