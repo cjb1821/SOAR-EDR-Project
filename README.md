@@ -35,3 +35,14 @@
 <p align="left">
 Created a workflow diagram in Draw.io to demonstrate the objectives of the project: <br/>
 <img src="https://imgur.com/TLMH96Z.png" height="80%" width="80%" alt="Draw.io Workflow Diagram"/>
+<br />
+<br />
+<br />
+Installed the Lima Charlie agent on the cloud VM and the VM is displayed as an end node in the Lima Charlie sensors list. 
+<img src="https://imgur.com/9z2AxHv.png" height="80%" width="80%" alt="Lima Charlie Agent Install"/>
+<br />
+<br />
+<br />
+Created a rule Detection/Response(DR) rule within Lima Charlie to detect when the password recovery tool is ran on the virtual machine.
+<img src="https://imgur.com/usPq9dg.png" height="80%" width="80%" alt="Detection Response Rule"/>
+
