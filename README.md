@@ -38,12 +38,14 @@ Created a workflow diagram in Draw.io to demonstrate the objectives of the proje
 <br />
 <br />
 <br />
-Installed the Lima Charlie agent on the cloud VM and the VM is displayed as an end node in the Lima Charlie sensors list. 
+Installed the Lima Charlie agent on the cloud VM and the VM is displayed as an end node in the Lima Charlie sensors list.
+<br>
 <img src="https://imgur.com/9z2AxHv.png" height="80%" width="80%" alt="Lima Charlie Agent Install"/>
 <br />
 <br />
 <br />
 Created a Detection/Response(DR) rule within Lima Charlie to detect when the password recovery tool is run on the virtual machine.
+<br>
 <img src="https://imgur.com/usPq9dg.png" height="80%" width="80%" alt="Detection Response Rule"/>
 <br />
 <br />
@@ -88,6 +90,7 @@ Lima Charlie then sends that information over to Tines, and the webhook receives
 Tines then forwards a message about the detection to the Slack alert channel that was created earlier.
 <br />
 An email about this detection was also sent to my personal email but I chose not to include this for personal reasons. 
+<br>
 <img src="https://imgur.com/qwZTSZv.png" height="80%" width="80%" alt="Tines gets the information on the detection"/>
 <br />
 <br />
@@ -116,4 +119,5 @@ The VM will then be isolated from the network and all connections including RDP 
 <br />
 <br />
 If the user selects "no" a message will be sent to Slack urging the user to investigate the incident if the client is not isolated.
+<br>
 <img src="https://imgur.com/E28jYFQ.png" height="80%" width="80%" alt="Selecting NO Slack Message"/>
