@@ -28,4 +28,4 @@
 - <b>Lima Charlie</b>
 - <b>Tines</b>
 - <b>Slack</b>
-- <b>MS Server 2022)</b>
+- <b>MS Server 2022</b>
