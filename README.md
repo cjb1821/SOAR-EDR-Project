@@ -97,3 +97,23 @@ Then go to the user prompt and hit the "arrow" icon. This will take the user to 
 From there, the user can select "yes" or "no" to isolate the machine. Once a choice is selected, the user has to hit the submit button and close the tab.
 <br />
 <img src="https://imgur.com/AIiN2oM.png" height="80%" width="80%" alt="Tines gets the information on the detection"/>
+<br />
+<br />
+<br />
+If the user selects "yes", Lima Charlie will isolate the machine from the network.
+<br />
+A message will be sent to Slack saying the machine has been isolated.
+<br />
+The VM will then be isolated from the network and all connections including RDP will be unavailable.
+<img src="https://imgur.com/HiHbKZk.png" height="80%" width="80%" alt="Lima Charlie isolates the machine"/>
+<br />
+<img src="https://imgur.com/YA11HNM.png" height="80%" width="80%" alt="Isolation Message to Slack"/>
+<br />
+<img src="https://imgur.com/50vhcNX.png" height="80%" width="80%" alt="RDP Breaks"/>
+<br />
+<br />
+<br />
+<br />
+<br />
+If the user selects "no" a message will be sent to Slack urging the user to investigate the incident if the client is not isolated.
+<img src="https://imgur.com/E28jYFQ.png" height="80%" width="80%" alt="Selecting NO Slack Message"/>
