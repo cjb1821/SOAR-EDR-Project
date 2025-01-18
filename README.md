@@ -74,6 +74,7 @@ For the sake of security, the content of this executable was not displayed.
 <br />
 <br />
 <br />
+
 Lima Charlie detects the executable being run on the virtual machine. 
 <img src="https://imgur.com/Feyx9cH.png" height="80%" width="80%" alt="Lima Charlie detects the executable"/>
 
