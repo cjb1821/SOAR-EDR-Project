@@ -92,3 +92,8 @@ An email about this detection was also sent to my personal email but I chose not
 <br />
 <br />
 <br />
+Then go to the user prompt and hit the "arrow" icon. This will take the user to the detection and information about it.
+<br />
+From there, the user can select "yes" or "no" to isolate the machine. Once a choice is selected, the user has to hit the submit button and close the tab.
+<br />
+<img src="https://imgur.com/AIiN2oM.png" height="80%" width="80%" alt="Tines gets the information on the detection"/>
