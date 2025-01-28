@@ -34,7 +34,7 @@
 
 <p align="left">
 Created a workflow diagram in Draw.io to demonstrate the objectives of the project: <br/>
-<img src="https://imgur.com/TLMH96Z.png" height="80%" width="80%" alt="Draw.io Workflow Diagram"/>
+<img src="https://github.com/cjb1821/SOAR-EDR-Project/blob/4a12ca914ff1e36bb04e0e4a505ef4f5aed267b6/PlaybookWorkflow.png" height="80%" width="80%" alt="Draw.io Workflow Diagram"/>
 <br />
 <br />
 <br />
